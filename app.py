@@ -10,7 +10,7 @@ st.set_page_config(page_title="Boston Housing Price Predictor", layout="wide")
 
 @st.cache_data
 def load_data():
-    # If using built-in dataset, save CSV to data/boston.csv; here load from CSV
+  
     return pd.read_csv('data/boston.csv')
 
 @st.cache_resource
@@ -107,3 +107,4 @@ if page == "About":
     - **Goal**: Predict median house prices using neighborhood features.
     - App created with Streamlit, trained with scikit-learn.
     """)
+
