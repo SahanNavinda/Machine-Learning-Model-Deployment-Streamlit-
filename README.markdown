@@ -75,8 +75,9 @@ Listed in `requirements.txt`:
 - Ensure the `data/boston.csv` file is available or provide download instructions in the app.
 
 ## Streamlit Cloud URL
-https://savindhayachamikara-machine-learning-model-deployment.streamlit.app/
+(https://am5ezx8b4cnrjqdpdeystq.streamlit.app/)
 
 ## Author
-I.R.G.S.C.Herath
-ITBIN-2211-0193
+D.S.N.Vitharana
+ITBIN-2211-0312
+
